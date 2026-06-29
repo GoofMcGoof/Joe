@@ -1,0 +1,16 @@
+{
+  "name": "PowderLab",
+  "short_name": "PowderLab",
+  "description": "Industrial Alchemy & Sandbox",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#050507",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Powder Laboratory",
+  "description": "An immersive alchemy sandbox game where you grind raw ingredients, formulate custom powder recipes, and test them in a high-performance falling sand physics simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
